@@ -1,0 +1,14 @@
+.guvenbarikon {
+  font-size: 50px;
+}
+
+.guvenbar {
+  width: 100%;
+}
+
+.guvenbar {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  text-align: center;
+}
