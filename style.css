@@ -1,0 +1,28 @@
+body {
+  font-family: "Jost", sans-serif;
+}
+.guvenbarikon {
+  font-size: 50px;
+}
+
+.guvenbar {
+  max-width: 100%;
+}
+
+.guvenbar {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.guvenbaricerik {
+  background: #481380;
+  padding: 10px 85px;
+  margin-top: 10px;
+  color: #ffe2ff;
+}
+
+.guvenbaricerik:hover {
+  background: #742dd2;
+}
